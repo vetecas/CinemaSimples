@@ -6,7 +6,7 @@
 
         public int Numero { get; set; }
 
-        public int Fileiras { get; set; }
+        public string Fileiras { get; set; }
 
         public int Assentos { get; set; }
     }

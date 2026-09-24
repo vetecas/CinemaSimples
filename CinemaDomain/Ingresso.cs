@@ -4,7 +4,7 @@
     {
         public string Documento { get; set; }
 
-        public Secao Secao { get; set; }
+        public Sessao Secao { get; set; }
 
         public DateTime DataCompra { get; set; }
  

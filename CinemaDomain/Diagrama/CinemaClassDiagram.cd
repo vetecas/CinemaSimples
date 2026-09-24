@@ -18,7 +18,7 @@
       <Property Name="Genero" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="CinemaDomain.Secao">
+  <Class Name="CinemaDomain.Sessao">
     <Position X="8" Y="3" Width="1.5" />
     <AssociationLine Name="Filme" Type="CinemaDomain.Filme" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
       <Path>
@@ -54,11 +54,11 @@
   </Class>
   <Class Name="CinemaDomain.Ingresso">
     <Position X="10.25" Y="3" Width="2.5" />
-    <AssociationLine Name="Secao" Type="CinemaDomain.Secao" FixedFromPoint="true" FixedToPoint="true">
+    <AssociationLine Name="Secao" Type="CinemaDomain.Sessao" FixedFromPoint="true" FixedToPoint="true">
       <Path>
         <Point X="11.5" Y="5.002" />
-        <Point X="11.5" Y="5.302" />
-        <Point X="9.25" Y="5.302" />
+        <Point X="11.5" Y="5.377" />
+        <Point X="9.25" Y="5.377" />
         <Point X="9.25" Y="4.425" />
       </Path>
     </AssociationLine>
@@ -93,7 +93,24 @@
     </TypeIdentifier>
   </Class>
   <Class Name="CinemaDomain.IngressoItem">
-    <Position X="11.75" Y="5.5" Width="1.75" />
+    <Position X="13.25" Y="3" Width="1.75" />
+    <InheritanceLine Type="CinemaDomain.BaseEntity" FixedToPoint="true">
+      <Path>
+        <Point X="6.75" Y="1.853" />
+        <Point X="6.75" Y="2.625" />
+        <Point X="15.375" Y="2.625" />
+        <Point X="15.375" Y="3.875" />
+        <Point X="15" Y="3.875" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="Ingresso" Type="CinemaDomain.Ingresso" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13.938" Y="4.617" />
+        <Point X="13.938" Y="5.377" />
+        <Point X="12.375" Y="5.377" />
+        <Point X="12.375" Y="5.002" />
+      </Path>
+    </AssociationLine>
     <TypeIdentifier>
       <HashCode>gAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAA=</HashCode>
       <FileName>IngressoItem.cs</FileName>
