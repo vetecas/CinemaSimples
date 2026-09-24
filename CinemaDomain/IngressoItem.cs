@@ -4,7 +4,7 @@
     {
         public int Assento { get; set; }
 
-        public int Fileira { get; set; }
+        public string Fileira { get; set; }
 
         public Ingresso Ingresso { get; set; }
 
