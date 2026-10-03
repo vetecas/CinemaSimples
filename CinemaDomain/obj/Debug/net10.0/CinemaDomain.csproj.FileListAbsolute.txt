@@ -1,0 +1,12 @@
+D:\Candil_POE_Cinema\CinemaDomain\bin\Debug\net10.0\CinemaDomain.deps.json
+D:\Candil_POE_Cinema\CinemaDomain\bin\Debug\net10.0\CinemaDomain.dll
+D:\Candil_POE_Cinema\CinemaDomain\bin\Debug\net10.0\CinemaDomain.pdb
+D:\Candil_POE_Cinema\CinemaDomain\obj\Debug\net10.0\CinemaDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Candil_POE_Cinema\CinemaDomain\obj\Debug\net10.0\CinemaDomain.AssemblyInfoInputs.cache
+D:\Candil_POE_Cinema\CinemaDomain\obj\Debug\net10.0\CinemaDomain.AssemblyInfo.cs
+D:\Candil_POE_Cinema\CinemaDomain\obj\Debug\net10.0\CinemaDomain.csproj.CoreCompileInputs.cache
+D:\Candil_POE_Cinema\CinemaDomain\obj\Debug\net10.0\CinemaDomain.sourcelink.json
+D:\Candil_POE_Cinema\CinemaDomain\obj\Debug\net10.0\CinemaDomain.dll
+D:\Candil_POE_Cinema\CinemaDomain\obj\Debug\net10.0\refint\CinemaDomain.dll
+D:\Candil_POE_Cinema\CinemaDomain\obj\Debug\net10.0\CinemaDomain.pdb
+D:\Candil_POE_Cinema\CinemaDomain\obj\Debug\net10.0\ref\CinemaDomain.dll
